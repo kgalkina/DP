@@ -1,0 +1,1 @@
+Upute: možete pokrenuti igru u browseru (mapa story.materials > mapa release > datoteka play).
